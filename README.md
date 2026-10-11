@@ -15,7 +15,8 @@
 2. Concept DOI and version DOI registered via Zenodo
 
 **Progress Log:**
-- 10-10-2026: Literature review uploaded
+- 10 Oct 2026: Literature review uploaded
+- 11 Oct 2026: Repository Setup
 
 **Future Work:**
 - Complete systematic review
