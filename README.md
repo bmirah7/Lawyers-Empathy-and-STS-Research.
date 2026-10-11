@@ -1,5 +1,6 @@
 
 **Project Title:** Lawyers, Empathy, and STS: Research. 
+
 **Concept DOI:** https://doi.org/10.5281/zenodo.23282511 
 
 **Summary:** This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress. By documenting the journey from literature review to systematic review with meta-analysis, the project aims to provide evidence-based insights to lawyer well-being. 
