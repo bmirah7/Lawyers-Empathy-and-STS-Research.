@@ -4,8 +4,7 @@
 **Concept DOI:** https://doi.org/10.5281/zenodo.23282511 
 
 **Summary:**
-This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress.
-The project currently consists of a literature review and is being extended through the development of a structured research dataset and descriptive statistical analysis using Power BI. Future work may include an interactive dashboard and the exploration of systematic review and meta-analytic methods.
+This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress. The project currently consists of a literature review and is being extended through the development of a structured research dataset and descriptive statistical analysis using Power BI. Future work may include an interactive dashboard.
 
 **Research Goals:**
 1. Upload the completed literature review
@@ -16,16 +15,17 @@ The project currently consists of a literature review and is being extended thro
 
 **Current Status:**
 1. Uploaded revised version of literature review  (11 Oct 2026)
-2. Concept DOI and version DOI registered via Zenodo
+2. Concept DOI and version DOI (v1.0 for literature review) registered via Zenodo
 
 **Progress Log:**
 - 10 Oct 2026: Literature review uploaded
 - 11 Oct 2026: Uploaded the revised lit review & completed setting up the GitHub repository
+- 17 Oct 2026: Created a structured study dataset from the literature review
+- 17 Oct 2026: Constructed an initial draft of the descriptive statistical analysis using power BI
 
 **Future Work:** 
-- Create a structured dataset from included studies
-- Conduct descriptive statistical analysis
-- Develop power BI dashboard visualizing the study characteristics
+- Refine descriptive statistical analysis
+- Develop interactive dashboard visualizing the study characteristics
 
 **Citation Section:**
 If you use or reference this work, please cite:
