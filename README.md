@@ -4,7 +4,7 @@
 **Concept DOI:** https://doi.org/10.5281/zenodo.23282511 
 
 **Summary:**
-This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress. The project currently consists of a literature review and is being extended through the development of a structured research dataset and descriptive statistical analysis using Power BI. Future work may include an interactive dashboard.
+This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress. The project currently consists of a literature review and is being extended through the development of a structured research dataset and descriptive statistical analysis using Power BI. Future work may include an interactive dashboard and exploration of systematic review and meta-analysis.
 
 **Research Goals:**
 1. Upload the completed literature review
