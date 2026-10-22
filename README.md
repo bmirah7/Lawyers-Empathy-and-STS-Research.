@@ -23,7 +23,7 @@ This research project investigates the influence of empathy in legal professiona
 - 17 Oct 2026: Created a structured study dataset from the literature review
 - 17 Oct 2026: Constructed an initial draft of the descriptive statistical analysis using power BI
 - 18 Oct 2026: Refined the descriptive statistical analysis dashbaord
-- 22 Oct 2026: Divided conculsion/discussion section into 2 and added in the analytical visuals with captions edited
+- 22 Oct 2026: Divided conclusion/discussion section into 2 and added in the analytical visuals with captions edited
 
 **Future Work:** 
 - Revise the literature review by integrating the analytics extension
