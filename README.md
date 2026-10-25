@@ -11,7 +11,8 @@ This research project investigates the influence of empathy in legal professiona
 2. Develop a structured study dataset from the literature reviewed.
 3. Conduct descriptive statistical analysis of included studies using power BI.
 4. Create an interactive visual analytics’ dashboard.
-4. Document process openly for transparency and replicability
+5. Revise literature review
+6. Document process openly for transparency and replicability
 
 **Current Status:**
 1. Uploaded revised version of literature review  (11 Oct 2026)
@@ -24,10 +25,11 @@ This research project investigates the influence of empathy in legal professiona
 - 17 Oct 2026: Constructed an initial draft of the descriptive statistical analysis using power BI
 - 18 Oct 2026: Refined the descriptive statistical analysis dashbaord
 - 22 Oct 2026: Divided conclusion/discussion section into 2 and added in the analytical visuals with captions edited
+- 25 Oct 2026: Integrated descriptive visual analysis and revised the discussion section. Uploaded Literature review v2.0.
 
 **Future Work:** 
-- Revise the literature review by integrating the analytics extension
 - Develop interactive dashboard visualizing the study characteristics
+- Revise the literature review
 
 **Citation Section:**
 If you use or reference this work, please cite:
