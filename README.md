@@ -34,8 +34,16 @@ This research project investigates the influence of empathy in legal professiona
 
 **Citation Section:**
 If you use or reference this work, please cite:
-- Concept DOI (latest version): https://doi.org/10.5281/zenodo.23282511 
-- Version 1.0 (Literature Review Draft): https://doi.org/10.5281/zenodo.23282512 
+
+Latest version:
+Concept DOI: https://doi.org/10.5281/zenodo.23282511 
+
+Version-specific citation:
+-  v1.0 – Literature Review 
+Thomson, B. B. (2026). Lawyers, Empathy, and STS: Research (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23282512 
+
+-  v2.0 – Analytics Extension
+Betssy Brijit Thomson. (2026). bmirah7/Lawyers-Empathy-and-STS-Research.: Analytics Extension (Version v2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23672724 
 
 **License:** This work is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
