@@ -1,23 +1,25 @@
 
 **Project Title:** Lawyers, Empathy, and STS: Research. 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23672724.svg)](https://doi.org/10.5281/zenodo.23672724)
+
 **Concept DOI:** https://doi.org/10.5281/zenodo.23282511 
 
 **Summary:**
 This research project investigates the influence of empathy in legal professionals handling violent cases involving ASPD offenders on susceptibility to secondary traumatic stress. The project currently consists of a literature review and is being extended through the development of a structured research dataset and descriptive statistical analysis using Power BI. Future work may include an interactive dashboard and exploration of systematic review and meta-analysis.
 
 **Research Goals:**
-1. Upload the completed literature review
-2. Develop a structured study dataset from the literature reviewed.
-3. Conduct descriptive statistical analysis of included studies using power BI.
-4. Create an interactive visual analytics’ dashboard.
-5. Revise literature review
-6. Document process openly for transparency and replicability
+1. Upload the completed literature review - Completed
+2. Develop a structured study dataset from the literature reviewed - Completed
+3. Conduct descriptive statistical analysis of included studies using power BI - Completed
+4. Create an interactive visual analytics’ dashboard - Completed
+5. Revise literature review - In progress
+6. Document process openly for transparency and replicability - Completed
 
 **Current Status:**
 1. Uploaded revised version of literature review  (11 Oct 2026)
 2. Concept DOI and version DOI (v1.0 for literature review) registered via Zenodo
-3. Completed the analytics extension
+3. Completed the analytics extension (26 Oct 2026)
 
 **Progress Log:**
 - 10 Oct 2026: Literature review uploaded
@@ -33,10 +35,11 @@ This research project investigates the influence of empathy in legal professiona
 - Revise the literature review
 
 **Citation Section:**
+
 If you use or reference this work, please cite:
 
 Latest version:
-Concept DOI: https://doi.org/10.5281/zenodo.23282511 
+- Concept DOI: https://doi.org/10.5281/zenodo.23282511 
 
 Version-specific citation:
 -  v1.0 – Literature Review 
