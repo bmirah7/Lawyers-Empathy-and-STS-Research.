@@ -19,7 +19,7 @@ This research project investigates the influence of empathy in legal professiona
 **Current Status:**
 1. Uploaded revised version of literature review  (11 Oct 2026)
 2. Concept DOI and version DOI (v1.0 for literature review) registered via Zenodo
-3. Completed the analytics extension (26 Oct 2026)
+3. Completed the analytics extension and made a v2.0 release (26 Oct 2026)
 
 **Progress Log:**
 - 10 Oct 2026: Literature review uploaded
