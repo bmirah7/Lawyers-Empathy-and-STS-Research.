@@ -1,7 +1,7 @@
 
 **Project Title:** Lawyers, Empathy, and STS: Research. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23672724.svg)](https://doi.org/10.5281/zenodo.23672724)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23282511.svg)](https://doi.org/10.5281/zenodo.23282511)
 
 **Concept DOI:** https://doi.org/10.5281/zenodo.23282511 
 
@@ -43,10 +43,14 @@ Latest version:
 
 Version-specific citation:
 -  v1.0 – Literature Review 
-Thomson, B. B. (2026). Lawyers, Empathy, and STS: Research (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23282512 
+Thomson, B. B. (2026). Lawyers, Empathy, and STS: Research (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23282512
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23282512.svg)](https://doi.org/10.5281/zenodo.23282512)
 
 -  v2.0 – Analytics Extension
-Betssy Brijit Thomson. (2026). bmirah7/Lawyers-Empathy-and-STS-Research.: Analytics Extension (Version v2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23672724 
+Betssy Brijit Thomson. (2026). bmirah7/Lawyers-Empathy-and-STS-Research.: Analytics Extension (Version v2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23672724
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23672724.svg)](https://doi.org/10.5281/zenodo.23672724)
 
 **License:** This work is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
