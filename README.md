@@ -33,6 +33,8 @@ This research project investigates the influence of empathy in legal professiona
 - 29 Oct 2026: Revised the format of the literature review
 - 2 Nov 2026: Confirmed the identified inconsistencies in the publication-year for each studies and updated the v2.0 release. 
 - 4 Nov 2026: Worked on metadata corrections & updated the v2.0 release description.
+- 5 Nov 2026: Revised the evidence table's findings column and the synthesis paragraphs.
+- 6 Nov 2026: Completed revising synthesis paragraphs and conclusion. 
 
 **Future Work:** 
 - Revise the study dataset
