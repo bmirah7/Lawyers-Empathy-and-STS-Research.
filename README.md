@@ -15,6 +15,7 @@ This research project investigates the influence of empathy in legal professiona
 4. Create an interactive visual analytics’ dashboard - Completed
 5. Revise literature review - Completed
 6. Document process openly for transparency and replicability - Completed
+7. Peer-review publication - In progress
 
 **Current Status:**
 1. Uploaded revised version of literature review  (11 Oct 2026)
@@ -22,6 +23,7 @@ This research project investigates the influence of empathy in legal professiona
 3. Completed the analytics extension and made a v2.0 release (26 Oct 2026)
 4. Completed the metadataa corrections and made v2.1 release (6 Nov 2026)
 5. Completed revising literature review and made v3.0 release (v3.0)
+6. Submitted literature review manuscript for peer-review publication process (7 Nov 2026)
 
 **Progress Log:**
 - 10 Oct 2026: Literature review uploaded
@@ -36,10 +38,11 @@ This research project investigates the influence of empathy in legal professiona
 - 2 Nov 2026: Confirmed the identified inconsistencies in the publication-year for each studies and updated the v2.0 release. 
 - 4 Nov 2026: Worked on metadata corrections & updated the v2.0 release description.
 - 5 Nov 2026: Revised the evidence table's findings column and the synthesis paragraphs.
-- 6 Nov 2026: Completed revising synthesis paragraphs and conclusion. Uploaded the corrected dataset & interactive dashboard files and create v2.1 release. Also uploaded the literature v3.0 and made v3.0 release. 
+- 6 Nov 2026: Completed revising synthesis paragraphs and conclusion. Uploaded the corrected dataset & interactive dashboard files and create v2.1 release. Also uploaded the literature v3.0 and made v3.0 release.
+- 7 Nov 2026: formatted literature review and submitted to a journal for peer-review process.
 
 **Future Work:** 
-- Go through peer-review publication process
+- Literature review's publication 
 
 **Citation Section:**
 
